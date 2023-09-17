@@ -1,2 +1,2 @@
 # barber
-Projeto academico, barber
+Projeto academico.
